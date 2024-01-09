@@ -2,7 +2,7 @@
 
 Este repositorio contiene los archivos necesarios para desplegar una aplicación Python utilizando AWS App Runner.
 
-## Descripción de la aplicación
+## Descripción app
 
 La aplicación es una aplicación web simple construida con Flask. Al acceder a la ruta principal ("/"), la aplicación devuelve el mensaje "Hello from Flask in App Runner!!". Esta aplicación de ejemplo se ha configurado específicamente para desplegar automáticamente en AWS App Runner.
 
